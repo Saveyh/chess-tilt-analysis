@@ -1,4 +1,12 @@
 # Chess Tilt Analysis
+![R](https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Preparation-3776AB?logo=python&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-Cleaned%20Dataset-4D9A3A?logo=files&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-OLS%20Modeling-8A2BE2)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-Inferential%20Stats-C0392B)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Anonymization%20%26%20Repair-16A085)
+![Lichess](https://img.shields.io/badge/Lichess-Game%20Data-000000?logo=lichess&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Public%20Portfolio%20Version-2E8B57)
 
 This repository presents a public, reproducible analysis of losing streaks in online chess. It starts from raw Lichess game exports and asks whether consecutive losses are associated with weaker subsequent performance.
 
