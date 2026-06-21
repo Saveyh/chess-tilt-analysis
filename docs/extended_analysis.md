@@ -33,12 +33,3 @@ Using the cleaned public dataset in this repository:
 - model fit stays modest (`R^2 ~= 0.035` in the multiple model), which is consistent with noisy blitz-game outcomes
 
 These values differ from the private course report because this repository works from the public cleaned dataset and keeps all 40 tracked players instead of reproducing the exact private classroom sample.
-
-## What was not imported
-
-The later PDF report and raw script were not copied into the repository because they contain:
-
-- author names and student numbers
-- university-specific submission material
-- PDF metadata
-- raw course files that are less publication-ready than the rewritten public version
