@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+
+# Local/private course files kept out of the public repository
+DataBase_Liskamm.csv
+Groupe_Liskamm-Rapport_Projet.pdf
+codeR_Liskamm.R
